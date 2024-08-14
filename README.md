@@ -13,4 +13,4 @@ Anda dapat melihat hasil lengkap dari portfolio saya melalui [link berikut](http
 
 ---
 
-Terima kasih telah mengunjungi portfolio saya! Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut, silakan hubungi saya melalui [[LinkedIn](https://www.linkedin.com/in/alfian742)](https://id.linkedin.com/in/alfian-hidayat-8337b2174).
+Terima kasih telah mengunjungi portfolio saya! Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut, silakan hubungi saya melalui [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/alfian742).
