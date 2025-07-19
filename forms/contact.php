@@ -35,7 +35,7 @@ if (empty($recaptcha_response)) {
   $errors['captcha'] = 'Verifikasi CAPTCHA wajib diisi.';
 } else {
   $recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
-  $secret_key = '6LeSKogrAAAAAAnPvztMBOxG6Z5XcAFjZYYT6y3k';
+  $secret_key = 'YOUR_SECRET_KEY';
 
   $verify = file_get_contents($recaptcha_url . '?secret=' . $secret_key . '&response=' . $recaptcha_response);
   $recaptcha = json_decode($verify);
